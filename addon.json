@@ -1,10 +1,10 @@
 {
 	"name": "Django Standard Form",
 	"description": "Quick and simple django templatetags for displaying forms.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"url": "https://github.com/aldryn/django-standard-form",
 	"package-name": "django-standard-form",
-	"installed-apps": [	],
+	"installed-apps": ["standard_form"],
 	"author": {
 		"name": "Ales Kocjancic",
 		"url": "http://ales.io"
